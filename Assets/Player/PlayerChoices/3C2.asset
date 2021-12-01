@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6be938121d89b4bc8aaa97836878f784, type: 3}
+  m_Name: 3C2
+  m_EditorClassIdentifier: 
+  choice: "I\u2019ll get rid of that \u201Csomething\u201D for you."
+  result: "It made a clean cut through the person\u2019s eyes. It: \u201CThat \u201Csomething\u201D
+    is gone now.\u201D"
+  illustratedImage: {fileID: 21300000, guid: 3aa49d004b8d04b1196c02f92e06868a, type: 3}
+  rewardBugPoint: 1
+  rewardSensibleBitPoint: 0
+  requiredBugPoint: 0
+  requiredSensibleBitPoint: 0
+  end1: 0
+  end2: 0
+  end3Or4: 0
+  removeDagger: 0
+  destroyTarget: 1
+  requiredDagger: 1
+  soundEffectIfAny: {fileID: 8300000, guid: cd354dc6b08bf4e5980f2d8076a08a0c, type: 3}
+  soundVolumeIfAny: 0.2

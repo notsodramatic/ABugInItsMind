@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6be938121d89b4bc8aaa97836878f784, type: 3}
+  m_Name: 8C1
+  m_EditorClassIdentifier: 
+  choice: "Of course, I can\u2019t be good."
+  result: It attempted to stab the spirit, but the spirit quickly disappeared.
+  illustratedImage: {fileID: 21300000, guid: bc4a519ed2d6e4b19836aec960c2a4e5, type: 3}
+  rewardBugPoint: 1
+  rewardSensibleBitPoint: 0
+  requiredBugPoint: 5
+  requiredSensibleBitPoint: 0
+  end1: 0
+  end2: 0
+  end3Or4: 0
+  removeDagger: 0
+  destroyTarget: 1
+  requiredDagger: 1
+  soundEffectIfAny: {fileID: 8300000, guid: a60abec239f2247aeb1cda965a54fb2c, type: 3}
+  soundVolumeIfAny: 1

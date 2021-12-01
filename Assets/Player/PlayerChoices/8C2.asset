@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6be938121d89b4bc8aaa97836878f784, type: 3}
+  m_Name: 8C2
+  m_EditorClassIdentifier: 
+  choice: "I don\u2019t think I\u2019m that evil."
+  result: "It gave the spirit its dagger. It: \u201CI don\u2019t need this anymore.\u201D"
+  illustratedImage: {fileID: 21300000, guid: 3d3203ab3f3784333b804b05dad283ac, type: 3}
+  rewardBugPoint: 0
+  rewardSensibleBitPoint: 1
+  requiredBugPoint: 0
+  requiredSensibleBitPoint: 5
+  end1: 0
+  end2: 0
+  end3Or4: 0
+  removeDagger: 1
+  destroyTarget: 0
+  requiredDagger: 1
+  soundEffectIfAny: {fileID: 8300000, guid: e0c0e149246a44fd68c46567d45271e6, type: 3}
+  soundVolumeIfAny: 0.6
